@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1O9M1z/1VI14VeRNznfpKHbc4yOsQiNcS8auMrD8GUCr6cYvLPq1OhGoIjUwM1o7j9Ei4wwUuluFcqsDYtTBhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shwetha\\source\\repos\\applicationInsights\\applicationInsights\\applicationInsights.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shwetha\\.nuget\\packages\\microsoft.applicationinsights\\2.21.0\\microsoft.applicationinsights.2.21.0.nupkg.sha512",
+    "C:\\Users\\Shwetha\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\Shwetha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Shwetha\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Shwetha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Shwetha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

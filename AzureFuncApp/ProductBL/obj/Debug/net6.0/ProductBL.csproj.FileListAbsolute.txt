@@ -1,0 +1,17 @@
+C:\Users\Shwetha\source\repos\AzurefuncApp\ProductBL\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Shwetha\source\repos\AzurefuncApp\ProductBL\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\Shwetha\source\repos\AzurefuncApp\ProductBL\bin\Debug\net6.0\msvcp140.dll
+C:\Users\Shwetha\source\repos\AzurefuncApp\ProductBL\bin\Debug\net6.0\vcruntime140.dll
+C:\Users\Shwetha\source\repos\AzurefuncApp\ProductBL\bin\Debug\net6.0\vcruntime140_1.dll
+C:\Users\Shwetha\source\repos\AzurefuncApp\ProductBL\bin\Debug\net6.0\ProductBL.deps.json
+C:\Users\Shwetha\source\repos\AzurefuncApp\ProductBL\bin\Debug\net6.0\ProductBL.dll
+C:\Users\Shwetha\source\repos\AzurefuncApp\ProductBL\bin\Debug\net6.0\ProductBL.pdb
+C:\Users\Shwetha\source\repos\AzurefuncApp\ProductBL\obj\Debug\net6.0\ProductBL.csproj.AssemblyReference.cache
+C:\Users\Shwetha\source\repos\AzurefuncApp\ProductBL\obj\Debug\net6.0\ProductBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shwetha\source\repos\AzurefuncApp\ProductBL\obj\Debug\net6.0\ProductBL.AssemblyInfoInputs.cache
+C:\Users\Shwetha\source\repos\AzurefuncApp\ProductBL\obj\Debug\net6.0\ProductBL.AssemblyInfo.cs
+C:\Users\Shwetha\source\repos\AzurefuncApp\ProductBL\obj\Debug\net6.0\ProductBL.csproj.CoreCompileInputs.cache
+C:\Users\Shwetha\source\repos\AzurefuncApp\ProductBL\obj\Debug\net6.0\ProductBL.dll
+C:\Users\Shwetha\source\repos\AzurefuncApp\ProductBL\obj\Debug\net6.0\refint\ProductBL.dll
+C:\Users\Shwetha\source\repos\AzurefuncApp\ProductBL\obj\Debug\net6.0\ProductBL.pdb
+C:\Users\Shwetha\source\repos\AzurefuncApp\ProductBL\obj\Debug\net6.0\ref\ProductBL.dll
